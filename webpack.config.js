@@ -25,7 +25,7 @@ module.exports = {
   ],
   devtool: 'inline-source-map',
   devServer: {
-    port: 9000,
+    port: 3000,
     hot: false,
     liveReload: true,
     static: {
